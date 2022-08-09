@@ -1,12 +1,11 @@
-# 配置详情请参考：https://docs.halo.run/zh/developer-guide/theme/config-files
-id: halo_quickstarter
-name: QuickStarter
+id: astre_Xpic
+name: Xpic
 author:
-  name: halo-dev
-  website: https://halo.run
-description: Quick starter theme for halo
-logo: https://avatars.githubusercontent.com/u/48195280?s=200&v=4
-website: https://github.com/halo-dev/halo-theme-quick-starter
-repo: https://github.com/halo-dev/halo-theme-quick-starter
+  name: astre
+  website: http://www.astre2galaxy.com
+description: A better theme for displaying pictures and notes.
+logo: https://astre-1304813435.cos.ap-shanghai.myqcloud.com/20220809220052.png
+website: https://github.com/Astro-Astre/Xpic
+repo: https://github.com/Astro-Astre/Xpic
 version: 1.0.0
 require: 1.4.2
